@@ -1,7 +1,7 @@
 # nobis
 
 "A new Flutter project."
-"This repo is used for variation purposes"
+"This repo is used for variation purposes".
 
 " 1. Clone nomad coder proj - https://nomadcoders.co/
 
